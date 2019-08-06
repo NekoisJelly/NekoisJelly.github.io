@@ -1,0 +1,22 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>呆猫の魔法书</title>
+		<link>https://Shelca.github.io/</link>
+		<description>Recent content on 呆猫の魔法书</description>
+		<generator>Hugo 0.56.3 -- gohugo.io</generator>
+		<language>en</language>
+		<managingEditor>mail@example.org (Some Author)</managingEditor>
+		<webMaster>mail@example.org (Some Author)</webMaster>
+		<copyright>Some Author — All rights reserved.</copyright>
+		<lastBuildDate>Tue, 06 Aug 2019 17:23:35 +0800</lastBuildDate>
+		<atom:link href="https://Shelca.github.io/index.xml" rel="self" type="application/rss+xml" />
+		<item>
+			<title>My First Post</title>
+			<link>https://Shelca.github.io/posts/my-first-post/</link>
+			<pubDate>Tue, 06 Aug 2019 17:23:35 +0800</pubDate>
+			<author>mail@example.org (Some Author)</author>
+			<guid isPermaLink="true">https://Shelca.github.io/posts/my-first-post/</guid>
+			<description></description>
+		</item>
+	</channel>
+</rss>
